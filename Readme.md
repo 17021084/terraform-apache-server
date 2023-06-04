@@ -5,6 +5,6 @@
 AWS modules :https://github.com/terraform-aws-modules
 
 
-### Standard Modules 
+### Standard Modules Structure
 
 ![](./standard_modules_structure.png)
